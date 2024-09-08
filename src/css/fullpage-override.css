@@ -1,0 +1,13 @@
+/* src/styles/fullpage-override.css */
+.fp-watermark {
+  display: none !important;
+}
+
+.fp-watermark-container {
+  display: none !important;
+}
+
+/* 确保导航条可见 */
+#fp-nav {
+  display: block !important;
+}
